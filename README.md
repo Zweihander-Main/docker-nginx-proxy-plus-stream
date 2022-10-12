@@ -1,5 +1,7 @@
 # Nginx-proxy plus stream support
 
+**[MOVED](https://github.com/Zweihander-Main/docker/tree/master/nginx-proxy-plus-stream)**
+
 [jwilder/nginx-proxy](https://hub.docker.com/r/jwilder/nginx-proxy) plus very basic support for the [stream module](https://nginx.org/en/docs/stream/ngx_stream_core_module.html).
 
 Also includes increase of max upload size to 10G, particularly useful for Nextcloud installations.
